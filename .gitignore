@@ -10,7 +10,6 @@
 
 # production
 /build
-GENERATE_SOURCEMAP=false
 
 # misc
 .DS_Store
