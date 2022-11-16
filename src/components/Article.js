@@ -16,6 +16,7 @@ const Article = ({ article }) => {
     });
     return newDate;
   };
+  
 
   const handleEdit = () => {
     const data = {
